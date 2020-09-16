@@ -1,4 +1,4 @@
-# vue-singlechannel-bismillah
+# vue-singlechannel
 
 ## Project setup
 ```
